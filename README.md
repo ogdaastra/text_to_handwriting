@@ -138,12 +138,3 @@ This project is released under the MIT License. You are free to use and adapt th
 
 ---
 
-## Credits
-
-Built using:
-- Python Imaging Library (Pillow)
-- NumPy
-
----
-
-Happy rendering!
