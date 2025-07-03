@@ -44,8 +44,6 @@ cd realistic-handwriting
 
 You can use [Calligraphr](https://www.calligraphr.com/) to create a font based on your own handwriting:
 
-#### 🖊️ Step-by-Click Guide to Create Your Handwriting Font:
-
 1. Go to [https://www.calligraphr.com](https://www.calligraphr.com)
 2. Create a free account and log in.
 3. Click **"Templates"** → **"Minimal English"** or create a custom one.
