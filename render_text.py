@@ -22,7 +22,7 @@ def get_text():
 #       SETTINGS
 # =========================
 
-font_path = "Orlandofon-Regular.ttf"
+font_path = "custom_font.ttf"
 words_per_line = 10
 dpi = 300
 page_width, page_height = int(8.27 * dpi), int(11.69 * dpi)  # A4 @ 300 dpi
