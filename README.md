@@ -106,7 +106,7 @@ pen_thickness = 2
 - **Ghosting:** Slight text repetition to mimic ink transfer.
 - **Crinkle:** Slight wave distortion to simulate paper crumples.
 - **Texture:** Overlays random region from a paper texture file.
-- **Ink Pooling and Lift Pressure:** Mimics realistic pen down/up effects.
+- **Lift Pressure:** Mimics realistic pen down/up effects.
 
 ---
 
