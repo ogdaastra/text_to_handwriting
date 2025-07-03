@@ -13,7 +13,7 @@ def get_text():
         return (
             "This is a realistic handwriting renderer using a custom font. "
             "It includes randomization, effects, smudges, and text wrapping. "
-            "Sure! Here’s some random text The curious cat leapt gracefully over the weathered fence, its emerald eyes gleaming in the fading twilight. Nearby, the old oak tree whispered secrets carried by the evening breeze, while distant stars began to twinkle softly in the velvet sky. Somewhere far away, a clock chimed midnight, marking the start of an uncharted adventure."
+            "The! curious? cat, leapt. gracefully over the weathered fence, its emerald eyes gleaming in the fading twilight. Nearby, the old oak tree whispered secrets carried by the evening breeze, while distant stars began to twinkle softly in the velvet sky. Somewhere far away, a clock chimed midnight, marking the start of an uncharted adventure."
         ) * 1
     else:
         return input("Enter custom text: ")
