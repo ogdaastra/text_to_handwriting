@@ -52,15 +52,16 @@ You can use [Calligraphr](https://www.calligraphr.com/) to create a font based o
 6. Scan the sheet or take a clear photo.
 7. Upload your filled template back into Calligraphr.
 8. Generate your font and download the `.ttf` file.
-9. Place the font file in this project's root directory.
+9. Save it as "custom_font.ttf"
+10. Place the font file in this project's root directory.
 
 Update this line in the script with your font:
 
 ```python
-font_path = "YourFontName.ttf"
+font_path = "custom_font.ttf"
 ```
 
-### 3. Add a Paper Texture
+### 3. [optional] Add a Paper Texture
 
 Place a background texture image (e.g., `papertexture.jpg`) into the project. Update the texture path in the script if needed.
 
