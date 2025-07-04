@@ -163,4 +163,4 @@ if __name__ == "__main__":
         page = apply_effects(page)
         page.save(f"output/handwritten_page_{i+1}.png")
 
-    print(f"\n✅ {len(pages)} page(s) rendered to 'output/' with realistic handwriting and ink smudging.")
+    print(f"\n✅ {len(pages)} page(s) rendered to 'output/'.")
